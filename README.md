@@ -1,0 +1,1 @@
+# Remove-index.php-from-URL-in-CodeIgniter
