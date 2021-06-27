@@ -34,3 +34,5 @@ $config['uri_protocol'] = "REQUEST_URI";
 ```
 
 3. Restart Apache Web Server (XAMPP)
+![Restart_server](https://user-images.githubusercontent.com/54746639/123535133-af5dbe80-d73f-11eb-82c0-1febf97e91b0.png)
+
